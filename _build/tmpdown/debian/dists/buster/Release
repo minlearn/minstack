@@ -1,0 +1,23 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.8
+Codename: buster
+Changelogs: http://metadata.ftp-master.debian.org/changelogs/@CHANGEPATH@_changelog
+Date: Sat, 06 Feb 2021 10:10:28 UTC
+Acquire-By-Hash: yes
+Architectures: amd64
+Components: main main-security-updates pve-no-subscription
+Description: Debian 10.8 Released 06 February 2021
+
+MD5Sum:
+ a2bbe3327322aba45fd03f8a2cb06285 45192330 main/binary-amd64/Packages
+ 606f0127c66b7f4762d993f4e3387e21   283583 main/debian-installer/binary-amd64/Packages
+ a442b5156017e49435c2112f8b89ae2c  1600367 main-security-updates/binary-amd64/Packages
+ 84ccdba1394f008ae501bb23d9925a97  1615388 pve-no-subscription/binary-amd64/Packages
+
+SHA256:
+ b1bb3e2bda619eac33763825ae61affc5998a7e54c47ea5967838d87d4ce5ced 45192330 main/binary-amd64/Packages
+ c5686ccf1440b6f172b02809b9e350dc56a90d01b860d501a4219806ea59b91c   283583 main/debian-installer/binary-amd64/Packages
+ a628898187fd82c5ed5efbd4af76ec03923b4131c88c4616d53ae2411419755a  1600367 main-security-updates/binary-amd64/Packages
+ e777d98bf95a577720fd48d9a827f15d68bcc30b40da07812e18b25e69cf6e3f  1615388 pve-no-subscription/binary-amd64/Packages
